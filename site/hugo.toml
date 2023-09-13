@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://tourmaline-phoenix-60b7bc.netlify.app/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Kaldi"
